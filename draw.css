@@ -11,19 +11,10 @@
     overflow: hidden;
     font-size: 34px;
 }
-#menu #left{
-    color: white;
-    font-size: 34px;
-    padding: 10px 14px;
-    float: left;
-    text-align: center;
-    text-decoration: none
-}
 #menu #right{
     color: white;
     font-size: 34px;
     padding: 10px 14px;
-    float: right;
     text-align: center;
     text-decoration: none;
 }
