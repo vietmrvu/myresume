@@ -7,17 +7,10 @@
 }
 h2{
     background-color: grey;
-    padding: 5px;
-    overflow: hidden;
+    text-align: center;
+    color: white;
+    padding: 20px;
     font-size: 34px;
-}
-#menu #right:hover{
-    background-color: white;
-    color: black;
-}
-#menu #left:hover{
-    background-color: white;
-    color: black;
 }
 #container{
     display: flex;
