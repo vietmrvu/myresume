@@ -1,0 +1,14 @@
+padding là khoảng cách của 1 khung chữ, hình,...
+px là đơn vị thường dùng
+% là đơn vị cũng thường dùng
+color màu chữ 
+background color màu nền
+overflow: loại bỏ phần chừa ra 
+text-align: vị trí text 
+float: di chuyển theo ý thích
+border-style: là cái viền ngoài 
+border: dùng để tạo viền 
+border: 1px solid black
+border collapse dùng để viền vào các ô tuỳ thích 
+media dùng để check nếu màn hình như nào 
+flex-wrap: dùng để thay đổi ở khi thu nhỏ màn hình 
