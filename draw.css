@@ -5,18 +5,11 @@
     padding: 50px;
     margin: 0;
 }
-#menu{
+h2{
     background-color: grey;
     padding: 5px;
     overflow: hidden;
     font-size: 34px;
-}
-#menu #right{
-    color: white;
-    font-size: 34px;
-    padding: 10px 14px;
-    text-align: center;
-    text-decoration: none;
 }
 #menu #right:hover{
     background-color: white;
