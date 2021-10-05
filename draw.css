@@ -11,6 +11,11 @@
     color: white;
     padding: 20px;
     font-size: 34px;
+    margin:0
+}
+#taga{
+    color: white;
+    margin:0
 }
 #container{
     display: flex;
