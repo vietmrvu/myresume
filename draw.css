@@ -1,7 +1,10 @@
+*{
+    background-image: url("background-resume.jpg")
+}
 #title{
-    background-image: url("image.jpg");
+    background-color: cyan;
     text-align: center;
-    color: white;
+    color: black;
     padding: 50px;
     margin: 0;
 }
