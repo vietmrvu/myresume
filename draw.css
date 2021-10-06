@@ -28,15 +28,15 @@ li{
 #container{
     display: flex;
     flex-wrap: nowrap;
-    background-image: url("background-resume.jpg")
+    
 }
 #left-side{
     flex:50%;
-    background-color:#fffdfdf2
+    background-image: url("background-resume.jpg")
 }
 #right-side{
     flex:50%;
-    background-color:white
+    bbackground-image: url("background-resume.jpg")
 }
 #footer{
     background-color: black;
