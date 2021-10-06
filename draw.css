@@ -1,6 +1,4 @@
-*{
-    background-image: url("background-resume.jpg")
-}
+
 h2{
     color: white 
 }
@@ -27,12 +25,12 @@ h2{
 }
 li{
     font-size: 18px;
-    color: black;
+    color: white;
 }
 #container{
     display: flex;
     flex-wrap: nowrap;
-    
+    background-image: url("background-resume.jpg")
 }
 #left-side{
     flex:50%;
