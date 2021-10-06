@@ -1,5 +1,5 @@
 
-h2{
+h2, h4{
     color: white 
 }
 
@@ -48,67 +48,50 @@ img{
     height: 110px
 }
 @media(max-width: 1000px){
-    #menu{
+    #goback{
         background-color: grey;
-        padding: 14px;
-        overflow: hidden;
-        font-size: 22px;
-    }
-        #menu #left{
-        color: white;
-        font-size: 22px;
-        padding: 8px 10px;
-        float: left;
         text-align: center;
+        color: white;
+        padding: 20px;
+        font-size: 24px;
+        margin:0;
         text-decoration: none
     }
-    #menu #right{
+    #taga{
         color: white;
-        font-size: 22px;
-        padding: 8px 10px;
-        float: right;
-        text-align: center;
-        text-decoration: none;
+        margin:0
     }
     #container{
         display: flex;
-        flex-wrap: wrap
+        flex-wrap: wrap;
+        background-image: url("background-resume.jpg")
     }
     #left-side{
         flex:100%;
-        background-color:#fffdfdf2
+        
     }
     #right-side{
         flex:100%;
-        background-color:white
     }
 }
 @media(max-width: 800px){
-    #menu{
+    #goback{
         background-color: grey;
-        padding: 14px;
-        overflow: hidden;
-        font-size: 20px;
-    }
-        #menu #left{
-        color: white;
-        font-size: 20px;
-        padding: 8px 10px;
-        float: left;
         text-align: center;
+        color: white;
+        padding: 20px;
+        font-size: 24px;
+        margin:0;
         text-decoration: none
     }
-    #menu #right{
+    #taga{
         color: white;
-        font-size: 20px;
-        padding: 8px 10px;
-        float: right;
-        text-align: center;
-        text-decoration: none;
+        margin:0
     }
     #container{
         display: flex;
-        flex-wrap: wrap
+        flex-wrap: wrap;
+        background-image: url("background-resume.jpg")
     }
     #left-side{
         flex:100%;
@@ -120,31 +103,23 @@ img{
     }
 }
 @media(max-width: 400px){
-    #menu{
+    #goback{
         background-color: grey;
-        padding: 4px;
-        overflow: hidden;
-        font-size: 12px;
-    }
-        #menu #left{
-        color: white;
-        font-size: 12px;
-        padding: 8px 10px;
-        float: left;
         text-align: center;
+        color: white;
+        padding: 20px;
+        font-size: 14px;
+        margin:0;
         text-decoration: none
     }
-    #menu #right{
+    #taga{
         color: white;
-        font-size: 12px;
-        padding: 8px 10px;
-        float: right;
-        text-align: center;
-        text-decoration: none;
+        margin:0
     }
     #container{
         display: flex;
-        flex-wrap: wrap
+        flex-wrap: wrap;
+        background-image: url("background-resume.jpg")
     }
     #left-side{
         flex:100%;
