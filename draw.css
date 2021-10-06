@@ -1,5 +1,9 @@
-
-    
+*{
+    background-image: url("background-resume.jpg")
+}
+h2{
+    color: white 
+}
 
 #title{
     background-color: cyan;
@@ -32,11 +36,9 @@ li{
 }
 #left-side{
     flex:50%;
-    background-image: url("background-resume.jpg")
 }
 #right-side{
     flex:50%;
-    bbackground-image: url("background-resume.jpg")
 }
 #footer{
     background-color: black;
