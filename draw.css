@@ -131,6 +131,13 @@ img{
     }
 }
 button{
-    padding: 10;
-    color: white
+    padding: 30;
+    color: black
+}
+#first{
+    background-color: green
+}
+#second{
+    background-color: red
+}
 }
