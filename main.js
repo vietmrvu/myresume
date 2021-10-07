@@ -1,10 +1,13 @@
-var button = document.querySelectorAll("button")
-function new(i){
-    var h4 = document.quertSelectorAll("#one")
-    h4.textContent = "Oh, you like it."
-    var h3 = document.quertSelectorAll("#two")
-    h3.textContent = "You don't like it, do you."
-    i.onclick = 0 
-    
+var text_button = document.querySelector("#one")
+var text_w_button = document.querySelector("#two")
+var button = document.querySelector("#first")
+var w_button = document.querySelector("#w_button")
+text_w_button.textContent = "You don't like it, do you."
+function more(){
+    text_button.textContent = "Oh, you like it."
 }
-button.onclick = new(button);
+function moreoh(){
+    text_w_button.textContent = "You don't like it, do you."
+}
+button.onclick = more;
+w_button.onclick = moreoh;
