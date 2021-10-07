@@ -128,11 +128,12 @@ img{
     }
 }
 button{
-    padding: 30px;
+    padding: 10px;
     color: black
 }
 #first{
-    background-color: green
+    background-color: green;
+    padding-right: 5px
 }
 #second{
     background-color: red
