@@ -137,4 +137,8 @@ button{
 #second{
     background-color: red
 }
+#one, #two{
+    padding-left: 14px;
+    color: white
+}
 
