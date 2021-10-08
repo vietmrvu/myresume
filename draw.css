@@ -11,7 +11,8 @@ h2, h4{
     margin: 0;
 }
 #goback{
-    background-color: grey;
+    background-color: blue;
+    background-image: linear-gradient(to bottom right, blue, cyan, green);
     text-align: center;
     color: white;
     padding: 20px;
