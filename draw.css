@@ -14,13 +14,6 @@ h2, h4{
      width: 44px;
      height: 44px; 
 }
-#title{
-    background-image: url("1TaP.gif");
-    text-align: center;
-    color: white;
-    padding: 50px;
-    margin: 0;
-}
 #menu{
     background-color: blue;
     background-image: linear-gradient(to bottom right, blue, cyan, green); 
